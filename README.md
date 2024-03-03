@@ -1,3 +1,5 @@
+Simple e-commerce webpage. made using nextjs and react with tailwind. Not doing anything more on the webpage as I rather remake the whole thing using Typescript insted.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
